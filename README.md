@@ -47,6 +47,12 @@ The skill includes detailed reference docs:
 - `references/metrics-benchmarks.md` — Formulas and industry benchmarks
 - `references/case-studies.md` — Examples from Mailchimp, Zapier, Basecamp, ConvertKit, Zoho
 
+## About Every
+
+Every is the only subscription you need to stay at the edge of AI—ideas, apps, and training all in one bundle.
+
+Start your free trial: https://every.to/subscribe
+
 ## License
 
 MIT
